@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nadya 👋
 
-<!--
-**nadyapne/nadyapne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student who is interested in technology, programming, and web development.
 
-Here are some ideas to get you started:
+## Skills & Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- VB.NET
+- pgAdmin
+- Visual Studio Code
+
+## Fun Fact
+
+I enjoy learning new things and exploring technology.
+
+## Social Media
+
+- [Instagram](https://www.instagram.com/nadyapne/)
+- [YouTube](https://www.youtube.com/@nadyapne)
