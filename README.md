@@ -4,7 +4,6 @@ I'm an Information Systems student who is interested in technology, programming,
 
 ## Skills & Tech Stack
 
-- PHP
 - VB.NET
 - pgAdmin
 - Visual Studio Code
